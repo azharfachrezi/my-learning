@@ -4,3 +4,8 @@ __pycache__
 ~$*.xlsx
 *.pyc
 Jobs_API.ipynb
+cleaned_survey_data.csv
+my_analysis.db
+survey_data_updated.csv
+tool_desired_for_dashboard(SO_Survey_Data).csv
+tools_used_for_dashboard(SO_Survey_Data).csv
