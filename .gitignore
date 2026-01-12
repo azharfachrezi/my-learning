@@ -2,3 +2,4 @@ machine_learning_practice/
 __pycache__/
 pandas_project/
 .DS_Store
+recipes.csv
