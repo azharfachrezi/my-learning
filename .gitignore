@@ -3,3 +3,4 @@ __pycache__/
 pandas_project/
 .DS_Store
 recipes.csv
+sample_submission.csv
